@@ -1,3 +1,6 @@
+This repository contains implementation of project given as part of COMPSCI 674 course at UMass Amherst.
+Please find below the highest hold-out validation accuracy for different distance thresholds:
+
 With train_corrmask = 0
 Distance Threshold – 0.01 Testing Matching Accuracy: 51.87%
 Distance Threshold – 0.02, Testing Matching Accuracy: 91.15%
