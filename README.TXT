@@ -1,3 +1,4 @@
+This repository contains implementation of project given as part of COMPSCI 674 course at UMass Amherst.
 Please find below the highest hold-out validation accuracy for different distance thresholds:
 
 With train_corrmask = 0
